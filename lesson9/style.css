@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    text-align: center;
+    font-family: "Inconsolata", sans-serif;
+}
+body, html {
+    height: 100%;}
+.container{
+    max-width: 100%;
+    border: 2px solid;
+}
+nav .container ul{
+    background-color: black;
+    padding: 20px 16px;
+}
+nav .container ul li{
+    display: inline-block;
+}
+nav .container ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 20px 120px;
+}
+nav .container ul li:hover a{
+    background-color: gray;
+    color: rgb(19, 236, 226); 
+    /* height: 120px; */
+}
+header{
+    background-image: url(img/coffeehouse.jpg);
+    /* background-size: ; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    height: 70vh;
+}
+
+header .box p{
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+}
+header .box{
+    position: absolute;
+    margin-top: 425px;
+    margin-left: 40px;
+    padding: 5px;
+}
+header .box p{
+    padding: 2px;
+}
+header .box1{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 600px;
+    /* padding: 5px; */
+}
+header .box1 p{
+    font-size: 70px;
+    color: white;
+}
+header .box2{
+    position: absolute;
+    margin-top: 430px;
+    margin-left: 1200px;
+    /* padding: 5px; */
+}
+header .box2 p{
+    color: white;
+    letter-spacing: 1px;
+
+}
+.kar h5{
+    background-color: #000;
+    color: white;
+    width: 200px;
+    height: 20px;
+    padding: auto;
+    margin-left: 580px;
+    margin-top: 50px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.box3 p{
+     width: 40%;
+     margin-left: 380px;
+    margin-top: 70px;
+}
+.box4 p{
+    width: 40%;
+    margin-left: 380px;
+   margin-top: 70px;
+}
+.box5 p{
+    width: 40%;
+    margin-left: 380px;
+   margin-top: 70px;
+}
+.box5 .box6{
+    width: 40%;
+    margin-left: 260px;
+   margin-top: 30px;
+}
+img{
+    width:100%;
+    max-width:580px;
+    margin-top: 26px;
+}
+
+.box7 p{
+    /* text-align: right; */
+    /* position: absolute; */
+    margin-top: 30px;
+    padding-right: 270px;
+    opacity: .5;
+}
+.box7 .k4{
+    margin-right: 75x;
+}
+.box7 span{
+    color: rgb(0, 255, 55);
+}
+.container3 h5{
+     background-color: #000;
+     color: white;
+     width: 200px;
+     height: 20px;
+     padding: auto;
+     margin-left: 580px;
+     margin-top: 50px;
+     font-size: 20px;
+     letter-spacing: 1px;
+}
+.container3 ul>li{
+    margin-top: 50px;
+    display: inline-block;
+   
+    /* background-color: #000; */
+   
+}
+  
+.container3 ul>li>a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 20px 120px;
+
+}
+.container3 ul>li:hover a{
+    background-color: #000;
+    color: white;
+     width: 70%;
+    height: 20px;
+}
+.box8{
+    margin-top: 20px;
+    margin-left: 400px;
+    background-color: rgb(235, 235, 235);
+    width: 550px;
+    height: 500px;   
+}
+.box8 h5{
+    line-height: 6;
+    
+}
+.box8 p{
+    opacity: .5;
+}
+.karen img{
+    
+        width:100%;
+        max-width:580px;
+        margin-top: 26px;
+        margin-left: 27px;
+    
+}
+.box9 h5{
+    background-color: #000;
+    color: white;
+    width: 200px;
+    height: 20px;
+    padding: auto;
+    margin-left: 580px;
+    margin-top: 50px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.container4 img{
+     margin-left: 28px;
+}
+.container4 p{
+    display: block;
+    color: #000;
+    width: 500px;
+     margin-top: 50px;
+    margin-left: 405px
+    
+}
+.container4 input{
+    display: block;
+    margin-top: 30px;
+    margin-left: 420px;
+    width: 500px;
+    height: 50px;
+}
+.container4 a{
+    background-color: #000;
+    color: white;
+    padding: 8px 16px;
+    border: 2px solid;
+    text-decoration: none;
+}
+.container4 .box11{
+    margin-top: 20px;
+    margin-right: 350px;
+}
+.box12{
+    margin-top: 100px;
+}
